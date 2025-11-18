@@ -5,7 +5,7 @@ Note, this only works on linux as line endings are different between windows and
 
 
 Click to watch the rendering:
-[![Watch the video](https://raw.githubusercontent.com/p0gster/console-rendering/master/console_rendering.jpg)](https://raw.githubusercontent.com/p0gster/console-rendering/master/console_rendering.gif)
+[![Watch the video](https://raw.githubusercontent.com/p0gster/console-rendering/main/console_rendering.jpg)](https://raw.githubusercontent.com/p0gster/console-rendering/main/console_rendering.gif)
 
 Ascii art image of the donut:
 
